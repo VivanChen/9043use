@@ -1,0 +1,52 @@
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Form1.resources
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Properties.Resources.resources
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.GenerateResource.cache
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.CoreCompileInputs.cache
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe.config
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.pdb
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csprojAssemblyReference.cache
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.exe
+C:\16_test\16_徐子晴_0409test2\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.pdb
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe.config
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.pdb
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csprojAssemblyReference.cache
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Form1.resources
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.LoginForm.resources
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Properties.Resources.resources
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.GenerateResource.cache
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.CoreCompileInputs.cache
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.exe
+C:\16_test\16_徐子晴_0410test\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.pdb
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe.config
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.pdb
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csprojResolveAssemblyReference.cache
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Form1.resources
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.LoginForm.resources
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Properties.Resources.resources
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.GenerateResource.Cache
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.exe
+D:\C#課程\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.pdb
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe.config
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.pdb
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csprojResolveAssemblyReference.cache
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Form1.resources
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.LoginForm.resources
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Properties.Resources.resources
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.GenerateResource.Cache
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.exe
+F:\16_test\16_徐子晴_0410test 001\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.pdb
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe.config
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.exe
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\bin\Debug\16_徐子晴_0409test2.pdb
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csprojAssemblyReference.cache
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Form1.resources
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.LoginForm.resources
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\_16_徐子晴_0409test2.Properties.Resources.resources
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.GenerateResource.cache
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.csproj.CoreCompileInputs.cache
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.exe
+C:\16_test\16_徐子晴_0410test homework\16_徐子晴_0409test2\obj\Debug\16_徐子晴_0409test2.pdb

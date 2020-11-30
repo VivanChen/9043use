@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Flex Pull Down Menu</title>
+<style type="text/css">
+/* 整體設置*/ 
+.navigation{
+	margin:0 auto;
+	width: 480px;
+	padding:0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.2em;
+	display: flex;
+	cursor: pointer;
+	text-align:center;
+	flex-direction: row;/*column*/
+	position: fixed;
+	z-index:3;
+}
+.menu{
+	width: 120px;
+}
+.menuList{
+	border: 1px solid gray;
+	background: #eee;
+	height: 40px;
+	line-height: 40px;
+	transition:all 0.5s;
+}
+.menuItem{
+	border: 0px solid gray;
+	border-top:none;
+	background: #ccc;
+	overflow:hidden;
+	line-height: 40px;
+	height: 0px;
+	transition:height 0.5s, background 0.5s, color 0.5s;
+}
+
+/* 滑鼠滑入顯示子選單 */
+.menu:hover .menuItem{
+	 height: 40px;
+	 border: 1px solid gray;
+}
+
+.menuList:hover{
+	background:#aaa;
+	color:white;
+}
+.menuList:active{background:#888;}
+.menuItem:hover{
+	background:#aaa;
+	color: white;
+}
+.menuItem:active{background:#888;}
+</style>
+
+<link rel="stylesheet" href="../themes/ui-lightness/jquery-ui.css" />
+<script type="text/javascript" src="../jquery.js"></script>
+<script type="text/javascript" src="../jquery-ui.js"></script>
+
+<script type="text/javascript">
+$(document).ready(init);
+function init(){
+	$(".menuItem").click(clickHandler);
+}
+function clickHandler(){
+	$("#info").text($(this).text());
+}
+</script>
+</head>
+ 
+<body>
+<div class="navigation">
+	<div class="menu">
+    	<div class="menuList">Vegetable</div>
+        <div class="menuItem">Carrot</div>
+        <div class="menuItem">Onion</div>
+        <div class="menuItem">Mushroom</div>
+        <div class="menuItem">Tomato</div>
+	</div> 
+	<div class="menu">
+        <div class="menuList">Fruit</div>
+        <div class="menuItem">Apple</div>
+        <div class="menuItem">Kiwi</div>
+        <div class="menuItem">Orange</div>
+	</div> 
+	<div class="menu">
+        <div class="menuList">Seafood</div>
+        <div class="menuItem">Cod</div>
+        <div class="menuItem">Lobster</div>
+        <div class="menuItem">Tuna</div>
+	</div> 
+	<div class="menu">
+    	<div class="menuList">Meat</div>
+        <div class="menuItem">Beef</div>
+        <div class="menuItem">Chicken</div>
+        <div class="menuItem">Lamb</div>
+        <div class="menuItem">Pork</div>
+	</div>
+</div>
+<br><br><br><br><hr>
+<div id="info">info</div>
+<br><br>
+
+
+</body>
+</html>

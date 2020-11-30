@@ -1,0 +1,10 @@
+C:\Users\jianhong\Desktop\作業\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\jianhong\Desktop\作業\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\jianhong\Desktop\作業\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\jianhong\Desktop\作業\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\jianhong\Desktop\作業\Homework\Homework\obj\Debug\Homework.Form1.resources
+C:\Users\jianhong\Desktop\作業\Homework\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\jianhong\Desktop\作業\Homework\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+C:\Users\jianhong\Desktop\作業\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\jianhong\Desktop\作業\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\jianhong\Desktop\作業\Homework\Homework\obj\Debug\Homework.pdb

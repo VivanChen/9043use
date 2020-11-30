@@ -1,0 +1,10 @@
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Form1.resources
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\作業\0417-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.pdb

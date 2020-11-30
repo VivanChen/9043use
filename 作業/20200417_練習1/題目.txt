@@ -1,0 +1,14 @@
+請設計一個類別 名為 Product,
+用來存放產品資料
+1.名稱
+2.價格
+3.數量
+
+在使用一個Button與ListBox,
+點選按鈕之後使用集合建立三筆Prodcut資料
+並列印資訊至ListBox內,
+
+ListBox的每一行資訊應該如下:
+"產品名稱:XXX,價格XXX,數量XXX"
+
+

@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>JavaScript</title>
+	<style type="text/css">
+	</style>
+	<script type="text/javascript">
+		var a=true;//boolean;
+		a = false;
+		a = !false;//not 反相
+		
+		a = 3<4;//true
+		a = 3>4;//false
+		// < <= == ===絕對相等 != !==絕對不相等 >= >
+		var x = 5;
+		var y = "5";
+		var z = 3;
+		a = x>z;//true
+		a = x==y;//true
+		a = x===y;//true
+		
+		a = x!=y;//false
+		a = x!==y;//true
+		
+		a = Boolean(1);//true
+		a = Boolean(-1);//true
+		a = Boolean(0);//false
+		
+		a = Boolean("abc");//true
+		a = Boolean(" ");//true
+		a = Boolean("");//false
+		
+		a = Boolean(null);//false
+		a = Boolean(undefined);//false
+		a = Boolean(NaN);//false
+		
+		document.write("a="+typeof(a)+"<br>");
+		document.write("a="+a+"<br>");
+	</script>
+</head>
+
+<body>
+</body>
+</html>

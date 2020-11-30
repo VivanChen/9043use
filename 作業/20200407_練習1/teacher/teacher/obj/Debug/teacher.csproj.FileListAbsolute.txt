@@ -1,0 +1,10 @@
+C:\temp\teacher\teacher\bin\Debug\teacher.exe.config
+C:\temp\teacher\teacher\bin\Debug\teacher.exe
+C:\temp\teacher\teacher\bin\Debug\teacher.pdb
+C:\temp\teacher\teacher\obj\Debug\teacher.csprojAssemblyReference.cache
+C:\temp\teacher\teacher\obj\Debug\teacher.Form1.resources
+C:\temp\teacher\teacher\obj\Debug\teacher.Properties.Resources.resources
+C:\temp\teacher\teacher\obj\Debug\teacher.csproj.GenerateResource.cache
+C:\temp\teacher\teacher\obj\Debug\teacher.csproj.CoreCompileInputs.cache
+C:\temp\teacher\teacher\obj\Debug\teacher.exe
+C:\temp\teacher\teacher\obj\Debug\teacher.pdb

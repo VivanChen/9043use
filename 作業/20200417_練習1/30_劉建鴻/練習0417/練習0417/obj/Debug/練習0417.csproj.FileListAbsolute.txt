@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\bin\Debug\練習0417.exe.config
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\bin\Debug\練習0417.exe
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\bin\Debug\練習0417.pdb
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\obj\Debug\練習0417.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\obj\Debug\練習0417.Form1.resources
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\obj\Debug\練習0417.Properties.Resources.resources
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\obj\Debug\練習0417.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\obj\Debug\練習0417.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\obj\Debug\練習0417.exe
+C:\Users\Admin\Desktop\課堂練習\練習0417\練習0417\obj\Debug\練習0417.pdb

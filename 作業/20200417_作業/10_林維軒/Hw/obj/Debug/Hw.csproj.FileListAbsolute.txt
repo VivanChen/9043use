@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\obj\Debug\Hw.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\obj\Debug\Hw.Form1.resources
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\obj\Debug\Hw.Properties.Resources.resources
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\obj\Debug\Hw.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\obj\Debug\Hw.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\bin\Debug\Hw.exe.config
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\bin\Debug\Hw.exe
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\bin\Debug\Hw.pdb
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\obj\Debug\Hw.exe
+C:\Users\Admin\Desktop\10_林維軒\Hw\Hw\obj\Debug\Hw.pdb

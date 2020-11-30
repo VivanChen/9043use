@@ -1,0 +1,10 @@
+D:\Class\practice\test_0417\test_0417\test_0417\bin\Debug\test_0417.exe.config
+D:\Class\practice\test_0417\test_0417\test_0417\bin\Debug\test_0417.exe
+D:\Class\practice\test_0417\test_0417\test_0417\bin\Debug\test_0417.pdb
+D:\Class\practice\test_0417\test_0417\test_0417\obj\Debug\test_0417.csprojAssemblyReference.cache
+D:\Class\practice\test_0417\test_0417\test_0417\obj\Debug\test_0417.Form1.resources
+D:\Class\practice\test_0417\test_0417\test_0417\obj\Debug\test_0417.Properties.Resources.resources
+D:\Class\practice\test_0417\test_0417\test_0417\obj\Debug\test_0417.csproj.GenerateResource.cache
+D:\Class\practice\test_0417\test_0417\test_0417\obj\Debug\test_0417.csproj.CoreCompileInputs.cache
+D:\Class\practice\test_0417\test_0417\test_0417\obj\Debug\test_0417.exe
+D:\Class\practice\test_0417\test_0417\test_0417\obj\Debug\test_0417.pdb

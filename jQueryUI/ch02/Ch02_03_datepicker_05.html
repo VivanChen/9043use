@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>jQuery UI Example Page</title>
+	<link rel="stylesheet" href="../themes/ui-lightness/jquery-ui.css" />
+	<script type="text/javascript" src="../jquery.js"></script>
+	<script type="text/javascript" src="../jquery-ui.js"></script>
+	
+	<script type="text/javascript">
+	var minDate;
+	var maxDate;
+	$(document).ready(init);
+	function init(){
+		$("#fromDatepicker").datepicker({
+			dateFormat: "yy/mm/dd",
+			changeMonth: true,
+			numberOfMonths: 2
+		});
+		$("#toDatepicker").datepicker({
+			dateFormat: "yy/mm/dd",
+			changeMonth: true,
+			numberOfMonths: 2
+		});
+		$("#divDatepicker").datepicker({
+			dateFormat: "yy/mm/dd",
+			numberOfMonths:2
+		});
+	}
+	</script>
+	<style>
+	#divDatepicker{
+		position:absolute;
+		top:200px;
+		left:50px;
+		display:none;
+	}
+	</style>
+</head>
+<body>
+
+<h1>Datepicker Options</h1>
+<div id="info">info</div>
+<p>Date: <input type="text" id="fromDatepicker"></p>
+<p>Date: <input type="text" id="toDatepicker"></p>
+<div id="divDatepicker"></div>
+</body>
+</html>

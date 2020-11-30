@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>JavaScript</title>
+<style type="text/css">
+</style>
+<script type="text/javascript">
+	/*var a = 3;
+	document.write("a="+a+"<br>");
+	
+	function hello(){
+		document.write("Hello"+"<br>");
+	}
+	hello();
+	*/
+	/*console.log(a);
+	function hello(name,time){
+		document.write("Hello "+name+", "+time+"!<br>");
+	}
+	
+	hello("Tony","morning");
+	hello("Mary","evening");
+	hello("Mary",123);
+	hello("Mary","evening",123);
+	hello("Tony");
+	
+	function hello(){
+		document.write("Wow "+"!<br>");
+	}
+	
+	function add(x,y){
+		document.write("line 1"+"<br>");
+		//return 123;
+		return x+y;
+		//return;//中斷執行中的function,並且傳回值
+		//document.write("line 2"+"<br>");
+		
+	}
+	var b=add(3,5);
+	b=add(5,6);
+	document.write("b="+b+"<br>");
+	*/
+	var mainStr = "主程式中的main string";
+	document.write("主程式呼叫mainStr: "+mainStr+"<br>");
+	function fun1(){
+		var mainStr = "Fun1程式中的main string";
+		var fun1Str="Fun1程式中的fun1 string";
+		mainStr="新資料";
+		document.write("fun1呼叫mainStr: "+mainStr+"<br>");
+		document.write("fun1呼叫fun1Str: "+fun1Str+"<br>");
+	}
+	fun1();
+	function fun2(){
+		var fun1Str="Fun2程式中的fun1 string";
+		document.write("fun2呼叫mainStr: "+mainStr+"<br>");
+		document.write("fun2呼叫fun1Str: "+fun1Str+"<br>");
+	}
+	fun2();
+
+	//document.write("主程式呼叫fun1Str: "+fun1Str+"<br>");//NO
+</script>
+</head>
+
+<body>
+	
+
+</body>
+</html>

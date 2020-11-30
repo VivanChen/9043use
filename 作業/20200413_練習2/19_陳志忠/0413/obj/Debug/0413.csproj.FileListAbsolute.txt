@@ -1,0 +1,30 @@
+C:\Users\kc\Desktop\web form 全修班\0413\0413\bin\Debug\0413.exe.config
+C:\Users\kc\Desktop\web form 全修班\0413\0413\bin\Debug\0413.exe
+C:\Users\kc\Desktop\web form 全修班\0413\0413\bin\Debug\0413.pdb
+C:\Users\kc\Desktop\web form 全修班\0413\0413\obj\Debug\0413.csprojAssemblyReference.cache
+C:\Users\kc\Desktop\web form 全修班\0413\0413\obj\Debug\_0413.Form1.resources
+C:\Users\kc\Desktop\web form 全修班\0413\0413\obj\Debug\_0413.Properties.Resources.resources
+C:\Users\kc\Desktop\web form 全修班\0413\0413\obj\Debug\0413.csproj.GenerateResource.cache
+C:\Users\kc\Desktop\web form 全修班\0413\0413\obj\Debug\0413.csproj.CoreCompileInputs.cache
+C:\Users\kc\Desktop\web form 全修班\0413\0413\obj\Debug\0413.exe
+C:\Users\kc\Desktop\web form 全修班\0413\0413\obj\Debug\0413.pdb
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\bin\Debug\0413.exe.config
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\bin\Debug\0413.exe
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\bin\Debug\0413.pdb
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\obj\Debug\0413.csprojAssemblyReference.cache
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\obj\Debug\_0413.Form1.resources
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\obj\Debug\_0413.Properties.Resources.resources
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\obj\Debug\0413.csproj.GenerateResource.cache
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\obj\Debug\0413.csproj.CoreCompileInputs.cache
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\obj\Debug\0413.exe
+C:\Users\kc\Desktop\web form 全修班\0413_練習\0413\obj\Debug\0413.pdb
+\\inst\public\20200413_練習2\19_陳志忠\0413\bin\Debug\0413.exe.config
+\\inst\public\20200413_練習2\19_陳志忠\0413\bin\Debug\0413.exe
+\\inst\public\20200413_練習2\19_陳志忠\0413\bin\Debug\0413.pdb
+\\inst\public\20200413_練習2\19_陳志忠\0413\obj\Debug\0413.csprojAssemblyReference.cache
+\\inst\public\20200413_練習2\19_陳志忠\0413\obj\Debug\_0413.Form1.resources
+\\inst\public\20200413_練習2\19_陳志忠\0413\obj\Debug\_0413.Properties.Resources.resources
+\\inst\public\20200413_練習2\19_陳志忠\0413\obj\Debug\0413.csproj.GenerateResource.cache
+\\inst\public\20200413_練習2\19_陳志忠\0413\obj\Debug\0413.csproj.CoreCompileInputs.cache
+\\inst\public\20200413_練習2\19_陳志忠\0413\obj\Debug\0413.exe
+\\inst\public\20200413_練習2\19_陳志忠\0413\obj\Debug\0413.pdb

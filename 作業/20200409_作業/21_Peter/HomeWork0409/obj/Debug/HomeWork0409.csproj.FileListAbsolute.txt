@@ -1,0 +1,10 @@
+C:\U2141A\HomeWork0409\HomeWork0409\bin\Debug\HomeWork0409.exe.config
+C:\U2141A\HomeWork0409\HomeWork0409\bin\Debug\HomeWork0409.exe
+C:\U2141A\HomeWork0409\HomeWork0409\bin\Debug\HomeWork0409.pdb
+C:\U2141A\HomeWork0409\HomeWork0409\obj\Debug\HomeWork0409.csprojAssemblyReference.cache
+C:\U2141A\HomeWork0409\HomeWork0409\obj\Debug\HomeWork0409.Form1.resources
+C:\U2141A\HomeWork0409\HomeWork0409\obj\Debug\HomeWork0409.Properties.Resources.resources
+C:\U2141A\HomeWork0409\HomeWork0409\obj\Debug\HomeWork0409.csproj.GenerateResource.cache
+C:\U2141A\HomeWork0409\HomeWork0409\obj\Debug\HomeWork0409.csproj.CoreCompileInputs.cache
+C:\U2141A\HomeWork0409\HomeWork0409\obj\Debug\HomeWork0409.exe
+C:\U2141A\HomeWork0409\HomeWork0409\obj\Debug\HomeWork0409.pdb

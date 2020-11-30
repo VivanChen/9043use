@@ -1,0 +1,10 @@
+C:\U2141\0413練習1\0413練習1\bin\Debug\0413練習1.exe.config
+C:\U2141\0413練習1\0413練習1\bin\Debug\0413練習1.exe
+C:\U2141\0413練習1\0413練習1\bin\Debug\0413練習1.pdb
+C:\U2141\0413練習1\0413練習1\obj\Debug\0413練習1.csprojAssemblyReference.cache
+C:\U2141\0413練習1\0413練習1\obj\Debug\_0413練習1.Form1.resources
+C:\U2141\0413練習1\0413練習1\obj\Debug\_0413練習1.Properties.Resources.resources
+C:\U2141\0413練習1\0413練習1\obj\Debug\0413練習1.csproj.GenerateResource.cache
+C:\U2141\0413練習1\0413練習1\obj\Debug\0413練習1.csproj.CoreCompileInputs.cache
+C:\U2141\0413練習1\0413練習1\obj\Debug\0413練習1.exe
+C:\U2141\0413練習1\0413練習1\obj\Debug\0413練習1.pdb

@@ -1,0 +1,10 @@
+E:\source\Homebook_0417\Homebook_0417\bin\Debug\Homebook_0417.exe.config
+E:\source\Homebook_0417\Homebook_0417\bin\Debug\Homebook_0417.exe
+E:\source\Homebook_0417\Homebook_0417\bin\Debug\Homebook_0417.pdb
+E:\source\Homebook_0417\Homebook_0417\obj\Debug\Homebook_0417.csprojAssemblyReference.cache
+E:\source\Homebook_0417\Homebook_0417\obj\Debug\Homebook_0417.Form1.resources
+E:\source\Homebook_0417\Homebook_0417\obj\Debug\Homebook_0417.Properties.Resources.resources
+E:\source\Homebook_0417\Homebook_0417\obj\Debug\Homebook_0417.csproj.GenerateResource.cache
+E:\source\Homebook_0417\Homebook_0417\obj\Debug\Homebook_0417.csproj.CoreCompileInputs.cache
+E:\source\Homebook_0417\Homebook_0417\obj\Debug\Homebook_0417.exe
+E:\source\Homebook_0417\Homebook_0417\obj\Debug\Homebook_0417.pdb

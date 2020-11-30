@@ -1,0 +1,10 @@
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\obj\Debug\16_徐子晴_0409test1.csprojAssemblyReference.cache
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\obj\Debug\_16_徐子晴_0409test1.Form1.resources
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\obj\Debug\_16_徐子晴_0409test1.Properties.Resources.resources
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\obj\Debug\16_徐子晴_0409test1.csproj.GenerateResource.cache
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\obj\Debug\16_徐子晴_0409test1.csproj.CoreCompileInputs.cache
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\bin\Debug\16_徐子晴_0409test1.exe.config
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\bin\Debug\16_徐子晴_0409test1.exe
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\bin\Debug\16_徐子晴_0409test1.pdb
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\obj\Debug\16_徐子晴_0409test1.exe
+C:\16_test\16_徐子晴_0409test1\16_徐子晴_0409test1\obj\Debug\16_徐子晴_0409test1.pdb

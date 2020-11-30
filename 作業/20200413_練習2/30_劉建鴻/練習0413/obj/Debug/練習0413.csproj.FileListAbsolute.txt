@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\bin\Debug\練習0413.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\bin\Debug\練習0413.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\bin\Debug\練習0413.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\obj\Debug\練習0413.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\obj\Debug\練習0413.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\obj\Debug\練習0413.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\obj\Debug\練習0413.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\obj\Debug\練習0413.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\obj\Debug\練習0413.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習0413\練習0413\obj\Debug\練習0413.pdb
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\bin\Debug\練習0413.exe.config
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\bin\Debug\練習0413.exe
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\bin\Debug\練習0413.pdb
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\obj\Debug\練習0413.csprojAssemblyReference.cache
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\obj\Debug\練習0413.Form1.resources
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\obj\Debug\練習0413.Properties.Resources.resources
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\obj\Debug\練習0413.csproj.GenerateResource.cache
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\obj\Debug\練習0413.csproj.CoreCompileInputs.cache
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\obj\Debug\練習0413.exe
+\\inst\public\20200413_練習2\30_劉建鴻\練習0413\obj\Debug\練習0413.pdb

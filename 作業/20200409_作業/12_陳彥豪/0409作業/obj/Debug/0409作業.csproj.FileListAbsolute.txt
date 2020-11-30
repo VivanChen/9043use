@@ -1,0 +1,10 @@
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\bin\Debug\0409作業.exe.config
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\bin\Debug\0409作業.exe
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\bin\Debug\0409作業.pdb
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\obj\Debug\0409作業.csprojAssemblyReference.cache
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\obj\Debug\_0409作業.Form1.resources
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\obj\Debug\_0409作業.Properties.Resources.resources
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\obj\Debug\0409作業.csproj.GenerateResource.cache
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\obj\Debug\0409作業.csproj.CoreCompileInputs.cache
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\obj\Debug\0409作業.exe
+C:\temp\練習\0409-作業\12_陳彥豪\0409作業\obj\Debug\0409作業.pdb

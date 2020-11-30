@@ -1,0 +1,10 @@
+C:\U0406\class practice\class practice\bin\Debug\class practice.exe.config
+C:\U0406\class practice\class practice\bin\Debug\class practice.exe
+C:\U0406\class practice\class practice\bin\Debug\class practice.pdb
+C:\U0406\class practice\class practice\obj\Debug\class practice.csprojAssemblyReference.cache
+C:\U0406\class practice\class practice\obj\Debug\class_practice.Form1.resources
+C:\U0406\class practice\class practice\obj\Debug\class_practice.Properties.Resources.resources
+C:\U0406\class practice\class practice\obj\Debug\class practice.csproj.GenerateResource.cache
+C:\U0406\class practice\class practice\obj\Debug\class practice.csproj.CoreCompileInputs.cache
+C:\U0406\class practice\class practice\obj\Debug\class practice.exe
+C:\U0406\class practice\class practice\obj\Debug\class practice.pdb

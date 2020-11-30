@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>JavaScript</title>
+	<style type="text/css">
+		span{
+		}
+	</style>
+	<script type="text/javascript">
+		var a="Hello ";//string;
+		a = "Hello "+'您好';
+		a = "Tony's book.";
+		a = "Tony\'s book which is \"The king\".";//跳脫符號 \
+		a = "ab\tcd\nefg";// \t:tab \n:new line
+		
+		a = String(123);//"123"
+		a = String(null);//"null"
+		
+		//document.write("a="+typeof(a)+"<br>");
+		var a="為別人減少煩惱是慈悲，為自己減少煩惱是智慧。";
+		document.write("a="+a+"<br>");
+		document.write("a="+a.length+"<br>");//22
+		document.write("a="+a.charAt(3)+"<br>");//減
+		document.write("a="+a.slice(2,5)+"<br>");//人減少
+		//slice(開始號碼：包含,結束號碼：不包含)//不會修改原來字串
+		document.write("a="+a+"<br>");
+		
+		document.write("a="+a.indexOf("減")+"<br>");//3
+		//indexOf("搜尋字串")
+		document.write("a="+a.indexOf("減",3)+"<br>");//3
+		document.write("a="+a.indexOf("減",4)+"<br>");//14
+		document.write("a="+a.indexOf("減",15)+"<br>");//-1 找不到
+		document.write("a="+a.indexOf("減少",0)+"<br>");//3
+		document.write("a="+a.indexOf("減少",4)+"<br>");//14
+		document.write("a="+a.indexOf("減少",15)+"<br>");//-1 找不到
+		
+		document.write("a="+a.indexOf("減無",0)+"<br>");//-1 找不到
+		
+		a = "abCDef";
+		document.write("a="+a+"<br>");
+		document.write("a="+a.toUpperCase()+"<br>");//大寫
+		document.write("a="+a.toLowerCase()+"<br>");//小寫
+		document.write("a="+a+"<br>");//abCDef
+		document.write("a="+a.indexOf("CD",0)+"<br>");//2
+		document.write("a="+a.indexOf("cd",0)+"<br>");//-1 找不到
+		document.write("a="+a.toLowerCase().indexOf("bc",0)+"<br>");//1
+		
+	</script>
+</head>
+
+<body>
+</body>
+</html>

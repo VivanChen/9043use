@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>JavaScript</title>
+	<style type="text/css">
+		span{
+			/*color: #FFFF00;*/
+		}
+	</style>
+	<script type="text/javascript">
+		//var b = 5;//5
+		//var b;//undefined
+		//document.write("b="+b+"<br>");
+		/*
+		var a=1;//number
+		a=3.1;
+		a=-3.1;
+		
+		//a="3.1";//string
+		
+		a=Number("3.1");//number 3.1
+		a=Number("3.1a");//NaN: Not a Number
+		a=Number("a3.1");//NaN: Not a Number
+		a=Number("");//0
+		a=Number("   ");//0
+		a=Number(" 3.1  ");//3.1
+		a=Number(null);//0
+		a=Number(undefined);//NaN: Not a Number
+		*/
+		/*
+		a=parseFloat("3.1");//number 3.1
+		a=parseFloat("3.1a");//3.1
+		a=parseFloat("a3.1");//NaN: Not a Number
+		a=parseFloat("");//NaN: Not a Number
+		a=parseFloat("   ");//NaN: Not a Number
+		a=parseFloat(" 3.1  ");//3.1
+		a=parseFloat(null);//NaN: Not a Number
+		a=parseFloat(undefined);//NaN: Not a Number
+		*/
+		/*
+		a=parseInt("3.1");//number 3
+		a=parseInt("3.1a");//3
+		a=parseInt("a3.1");//NaN: Not a Number
+		a=parseInt("");//NaN: Not a Number
+		a=parseInt("   ");//NaN: Not a Number
+		a=parseInt(" 3.1  ");//3
+		a=parseInt(null);//NaN: Not a Number
+		a=parseInt(undefined);//NaN: Not a Number
+		*/
+		/*
+		a = 36;//36 10進位
+		a = 036;//30 8進位
+		a = 0x36;//54 16進位
+		a = 0x00ff00;
+		a = 65535-255;
+		document.write("type a="+typeof(a)+"<br>");
+		document.write("a="+a+"<br>");
+		*/
+	</script>
+</head>
+
+<body>
+<!--span id="span1">5</span>+<span id="span2">2</span>=<span id="span3">?</span-->
+<span id="span1">5</span>-<span id="span2">2</span>=<span id="span3">?</span>
+<script type="text/javascript">
+	//var s1 = document.getElementById("span1");//SpanElement //在header為null
+	var s1 = document.getElementById("span1").innerHTML;//"5"
+	var s2 = document.getElementById("span2").innerHTML;//"2"
+	//alert(typeof(s1))
+	//document.getElementById("span3").innerHTML=Number(s1)+Number(s2);//"5"+"2"="52"
+	document.getElementById("span3").innerHTML=s1-s2;//Number("5")-Number("2")=3
+
+</script>
+
+</body>
+</html>

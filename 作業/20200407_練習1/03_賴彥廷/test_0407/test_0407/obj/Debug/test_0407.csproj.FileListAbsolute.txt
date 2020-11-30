@@ -1,0 +1,10 @@
+C:\Larry\test_0407\test_0407\bin\Debug\test_0407.exe.config
+C:\Larry\test_0407\test_0407\bin\Debug\test_0407.exe
+C:\Larry\test_0407\test_0407\bin\Debug\test_0407.pdb
+C:\Larry\test_0407\test_0407\obj\Debug\test_0407.csprojAssemblyReference.cache
+C:\Larry\test_0407\test_0407\obj\Debug\test_0407.Form1.resources
+C:\Larry\test_0407\test_0407\obj\Debug\test_0407.Properties.Resources.resources
+C:\Larry\test_0407\test_0407\obj\Debug\test_0407.csproj.GenerateResource.cache
+C:\Larry\test_0407\test_0407\obj\Debug\test_0407.csproj.CoreCompileInputs.cache
+C:\Larry\test_0407\test_0407\obj\Debug\test_0407.exe
+C:\Larry\test_0407\test_0407\obj\Debug\test_0407.pdb

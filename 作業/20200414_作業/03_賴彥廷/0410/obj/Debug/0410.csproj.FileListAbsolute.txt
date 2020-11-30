@@ -1,0 +1,55 @@
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\bin\Debug\0410.exe.config
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\bin\Debug\0410.exe
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\bin\Debug\0410.pdb
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.csprojAssemblyReference.cache
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\_0410.Form1.resources
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\_0410.Properties.Resources.resources
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.csproj.GenerateResource.cache
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.csproj.CoreCompileInputs.cache
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.exe
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.pdb
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\_0410.Login.resources
+D:\Class\homework\0410\03_賴彥廷\0410\bin\Debug\0410.exe.config
+D:\Class\homework\0410\03_賴彥廷\0410\bin\Debug\0410.exe
+D:\Class\homework\0410\03_賴彥廷\0410\bin\Debug\0410.pdb
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\0410.csprojAssemblyReference.cache
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\_0410.Form1.resources
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\_0410.Login.resources
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\_0410.Properties.Resources.resources
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\0410.csproj.GenerateResource.cache
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\0410.csproj.CoreCompileInputs.cache
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\0410.exe
+D:\Class\homework\0410\03_賴彥廷\0410\obj\Debug\0410.pdb
+E:\Class\homework\04133\03_賴彥廷\0410\bin\Debug\0410.exe.config
+E:\Class\homework\04133\03_賴彥廷\0410\bin\Debug\0410.exe
+E:\Class\homework\04133\03_賴彥廷\0410\bin\Debug\0410.pdb
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\0410.csprojAssemblyReference.cache
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\_0410.Form1.resources
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\_0410.Login.resources
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\_0410.Properties.Resources.resources
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\0410.csproj.GenerateResource.cache
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\0410.csproj.CoreCompileInputs.cache
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\0410.exe
+E:\Class\homework\04133\03_賴彥廷\0410\obj\Debug\0410.pdb
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\bin\Debug\0410.exe.config
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\bin\Debug\0410.exe
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\bin\Debug\0410.pdb
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\0410.csprojAssemblyReference.cache
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\_0410.Form1.resources
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\_0410.Login.resources
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\_0410.Properties.Resources.resources
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\0410.csproj.GenerateResource.cache
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\0410.csproj.CoreCompileInputs.cache
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\0410.exe
+D:\Class\homework\0413\03_賴彥廷 - 方法\0410\obj\Debug\0410.pdb
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\0410.csprojAssemblyReference.cache
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\_0410.Form1.resources
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\_0410.Login.resources
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\_0410.Properties.Resources.resources
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\0410.csproj.GenerateResource.cache
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\0410.csproj.CoreCompileInputs.cache
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\0410.exe
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\obj\Debug\0410.pdb
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\bin\Debug\0410.exe.config
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\bin\Debug\0410.exe
+E:\Class\homework\0414\03_賴彥廷 - 用呼叫方法修改\0410\bin\Debug\0410.pdb

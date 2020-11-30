@@ -1,0 +1,10 @@
+C:\U310934\productDTO\productDTO\obj\Debug\productDTO.csprojAssemblyReference.cache
+C:\U310934\productDTO\productDTO\obj\Debug\productDTO.Form1.resources
+C:\U310934\productDTO\productDTO\obj\Debug\productDTO.Properties.Resources.resources
+C:\U310934\productDTO\productDTO\obj\Debug\productDTO.csproj.GenerateResource.cache
+C:\U310934\productDTO\productDTO\obj\Debug\productDTO.csproj.CoreCompileInputs.cache
+C:\U310934\productDTO\productDTO\bin\Debug\productDTO.exe.config
+C:\U310934\productDTO\productDTO\bin\Debug\productDTO.exe
+C:\U310934\productDTO\productDTO\bin\Debug\productDTO.pdb
+C:\U310934\productDTO\productDTO\obj\Debug\productDTO.exe
+C:\U310934\productDTO\productDTO\obj\Debug\productDTO.pdb

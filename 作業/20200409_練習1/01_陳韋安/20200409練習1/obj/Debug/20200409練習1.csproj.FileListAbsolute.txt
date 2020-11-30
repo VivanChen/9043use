@@ -1,0 +1,10 @@
+C:\VS01\20200409練習1\20200409練習1\obj\Debug\20200409練習1.csprojAssemblyReference.cache
+C:\VS01\20200409練習1\20200409練習1\obj\Debug\_20200409練習1.Form1.resources
+C:\VS01\20200409練習1\20200409練習1\obj\Debug\_20200409練習1.Properties.Resources.resources
+C:\VS01\20200409練習1\20200409練習1\obj\Debug\20200409練習1.csproj.GenerateResource.cache
+C:\VS01\20200409練習1\20200409練習1\obj\Debug\20200409練習1.csproj.CoreCompileInputs.cache
+C:\VS01\20200409練習1\20200409練習1\bin\Debug\20200409練習1.exe.config
+C:\VS01\20200409練習1\20200409練習1\bin\Debug\20200409練習1.exe
+C:\VS01\20200409練習1\20200409練習1\bin\Debug\20200409練習1.pdb
+C:\VS01\20200409練習1\20200409練習1\obj\Debug\20200409練習1.exe
+C:\VS01\20200409練習1\20200409練習1\obj\Debug\20200409練習1.pdb

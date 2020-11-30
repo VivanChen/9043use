@@ -1,0 +1,9 @@
+C:\Visual Studio\homework0417\homework0417\bin\Debug\homework0417.exe.config
+C:\Visual Studio\homework0417\homework0417\bin\Debug\homework0417.exe
+C:\Visual Studio\homework0417\homework0417\bin\Debug\homework0417.pdb
+C:\Visual Studio\homework0417\homework0417\obj\Debug\homework0417.csprojResolveAssemblyReference.cache
+C:\Visual Studio\homework0417\homework0417\obj\Debug\homework0417.Form1.resources
+C:\Visual Studio\homework0417\homework0417\obj\Debug\homework0417.Properties.Resources.resources
+C:\Visual Studio\homework0417\homework0417\obj\Debug\homework0417.csproj.GenerateResource.Cache
+C:\Visual Studio\homework0417\homework0417\obj\Debug\homework0417.exe
+C:\Visual Studio\homework0417\homework0417\obj\Debug\homework0417.pdb

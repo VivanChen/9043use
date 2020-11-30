@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        <title>mousemove</title>
+        
+        <style type="text/css">
+            html {
+                color: white;
+                background-color: #2f2a3e;
+                font: normal 76% "Arial", "Trebuchet MS", "Lucida Grande", Verdana, Sans-Serif;
+            }
+			#myDiv{
+				width: 250px;
+				display: none;
+			}
+			.myProd{
+				width: 250px;
+				height: 250px;
+				background: pink;
+			}
+        </style>
+
+        <script type="text/javascript" src="../jquery.js"></script>
+		<script type="text/javascript">
+		$(document).ready(init);
+		function init()
+		{
+			//$(":text").mousemove(moveHandler);
+			$(document).mousemove(moveHandler);
+			$(".myProd").hover(prodHoverHandler);
+		}
+		function moveHandler(e){
+			$(":text:first").val(e.pageX);
+			//$(":text:last").val(e.pageY);
+			
+			$("#myDiv").offset({left:e.pageX+20,top:e.pageY});
+		}
+		function prodHoverHandler(){
+			$("#myDiv").fadeToggle(300);
+			var price = $(this).attr("price");
+			$(":text:last").val(price+" dollor!");
+		}
+		</script>  
+    </head>
+    <body>
+		<div class="myProd" price="30">My product a!</div><br>
+		<div class="myProd" price="50">My product b!</div>
+		<div id="myDiv">
+			x:<input type="text" size="20" name="x"/>
+			<br/>
+			y:<input type="text" size="20" name="y"/>
+		</div>
+
+    </body>
+</html>

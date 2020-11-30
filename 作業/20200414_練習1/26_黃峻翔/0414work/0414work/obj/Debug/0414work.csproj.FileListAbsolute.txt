@@ -1,0 +1,10 @@
+C:\xiang\0414work\0414work\bin\Debug\0414work.exe.config
+C:\xiang\0414work\0414work\bin\Debug\0414work.exe
+C:\xiang\0414work\0414work\bin\Debug\0414work.pdb
+C:\xiang\0414work\0414work\obj\Debug\0414work.csprojAssemblyReference.cache
+C:\xiang\0414work\0414work\obj\Debug\_0414work.Form1.resources
+C:\xiang\0414work\0414work\obj\Debug\_0414work.Properties.Resources.resources
+C:\xiang\0414work\0414work\obj\Debug\0414work.csproj.GenerateResource.cache
+C:\xiang\0414work\0414work\obj\Debug\0414work.csproj.CoreCompileInputs.cache
+C:\xiang\0414work\0414work\obj\Debug\0414work.exe
+C:\xiang\0414work\0414work\obj\Debug\0414work.pdb

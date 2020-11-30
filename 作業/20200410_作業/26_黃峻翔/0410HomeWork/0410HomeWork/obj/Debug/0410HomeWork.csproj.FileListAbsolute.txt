@@ -1,0 +1,10 @@
+D:\專案\0410HomeWork\0410HomeWork\obj\Debug\0410HomeWork.csprojResolveAssemblyReference.cache
+D:\專案\0410HomeWork\0410HomeWork\obj\Debug\_0410HomeWork.Form1.resources
+D:\專案\0410HomeWork\0410HomeWork\obj\Debug\_0410HomeWork.Properties.Resources.resources
+D:\專案\0410HomeWork\0410HomeWork\obj\Debug\0410HomeWork.csproj.GenerateResource.Cache
+D:\專案\0410HomeWork\0410HomeWork\bin\Debug\0410HomeWork.exe.config
+D:\專案\0410HomeWork\0410HomeWork\bin\Debug\0410HomeWork.exe
+D:\專案\0410HomeWork\0410HomeWork\bin\Debug\0410HomeWork.pdb
+D:\專案\0410HomeWork\0410HomeWork\obj\Debug\0410HomeWork.exe
+D:\專案\0410HomeWork\0410HomeWork\obj\Debug\0410HomeWork.pdb
+D:\專案\0410HomeWork\0410HomeWork\obj\Debug\_0410HomeWork.LoginForm.resources

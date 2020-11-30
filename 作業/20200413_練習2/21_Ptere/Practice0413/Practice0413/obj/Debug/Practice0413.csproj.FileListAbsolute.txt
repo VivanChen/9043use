@@ -1,0 +1,10 @@
+C:\U2141A\Practice0413\Practice0413\bin\Debug\Practice0413.exe.config
+C:\U2141A\Practice0413\Practice0413\bin\Debug\Practice0413.exe
+C:\U2141A\Practice0413\Practice0413\bin\Debug\Practice0413.pdb
+C:\U2141A\Practice0413\Practice0413\obj\Debug\Practice0413.csprojAssemblyReference.cache
+C:\U2141A\Practice0413\Practice0413\obj\Debug\Practice0413.Form1.resources
+C:\U2141A\Practice0413\Practice0413\obj\Debug\Practice0413.Properties.Resources.resources
+C:\U2141A\Practice0413\Practice0413\obj\Debug\Practice0413.csproj.GenerateResource.cache
+C:\U2141A\Practice0413\Practice0413\obj\Debug\Practice0413.csproj.CoreCompileInputs.cache
+C:\U2141A\Practice0413\Practice0413\obj\Debug\Practice0413.exe
+C:\U2141A\Practice0413\Practice0413\obj\Debug\Practice0413.pdb

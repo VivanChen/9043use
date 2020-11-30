@@ -1,0 +1,65 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\obj\Debug\_12_陳彥豪.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\0409練習-1\12_陳彥豪\obj\Debug\12_陳彥豪.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.null.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.test1.resources
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.null.resources
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.test1.resources
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\練習\0409-建檔計算\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.pdb
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.test1.resources
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.pdb
+C:\Users\JABA\Desktop\VS\作業\0410-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.login.resources
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.login.resources
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.test1.resources
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\Users\JABA\Desktop\VS\作業\0413-計算查詢\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.pdb
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.login.resources
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.test1.resources
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\上課練習及作業\作業\0416-\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.pdb

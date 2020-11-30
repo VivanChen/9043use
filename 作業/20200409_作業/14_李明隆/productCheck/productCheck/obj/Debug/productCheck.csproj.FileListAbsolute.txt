@@ -1,0 +1,10 @@
+C:\U310934\productCheck\productCheck\bin\Debug\productCheck.exe.config
+C:\U310934\productCheck\productCheck\bin\Debug\productCheck.exe
+C:\U310934\productCheck\productCheck\bin\Debug\productCheck.pdb
+C:\U310934\productCheck\productCheck\obj\Debug\productCheck.csprojAssemblyReference.cache
+C:\U310934\productCheck\productCheck\obj\Debug\productCheck.Form1.resources
+C:\U310934\productCheck\productCheck\obj\Debug\productCheck.Properties.Resources.resources
+C:\U310934\productCheck\productCheck\obj\Debug\productCheck.csproj.GenerateResource.cache
+C:\U310934\productCheck\productCheck\obj\Debug\productCheck.csproj.CoreCompileInputs.cache
+C:\U310934\productCheck\productCheck\obj\Debug\productCheck.exe
+C:\U310934\productCheck\productCheck\obj\Debug\productCheck.pdb

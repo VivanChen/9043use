@@ -1,0 +1,10 @@
+C:\U2141A\ClassPrac0414\ClassPrac0414\bin\Debug\ClassPrac0414.exe.config
+C:\U2141A\ClassPrac0414\ClassPrac0414\bin\Debug\ClassPrac0414.exe
+C:\U2141A\ClassPrac0414\ClassPrac0414\bin\Debug\ClassPrac0414.pdb
+C:\U2141A\ClassPrac0414\ClassPrac0414\obj\Debug\ClassPrac0414.csprojAssemblyReference.cache
+C:\U2141A\ClassPrac0414\ClassPrac0414\obj\Debug\ClassPrac0414.Form1.resources
+C:\U2141A\ClassPrac0414\ClassPrac0414\obj\Debug\ClassPrac0414.Properties.Resources.resources
+C:\U2141A\ClassPrac0414\ClassPrac0414\obj\Debug\ClassPrac0414.csproj.GenerateResource.cache
+C:\U2141A\ClassPrac0414\ClassPrac0414\obj\Debug\ClassPrac0414.csproj.CoreCompileInputs.cache
+C:\U2141A\ClassPrac0414\ClassPrac0414\obj\Debug\ClassPrac0414.exe
+C:\U2141A\ClassPrac0414\ClassPrac0414\obj\Debug\ClassPrac0414.pdb

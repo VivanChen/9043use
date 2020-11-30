@@ -1,0 +1,10 @@
+C:\temp\U2141\2020.0414\Exercise\bin\Debug\Exercise.exe.config
+C:\temp\U2141\2020.0414\Exercise\bin\Debug\Exercise.exe
+C:\temp\U2141\2020.0414\Exercise\bin\Debug\Exercise.pdb
+C:\temp\U2141\2020.0414\Exercise\obj\Debug\Exercise.Form1.resources
+C:\temp\U2141\2020.0414\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+C:\temp\U2141\2020.0414\Exercise\obj\Debug\Exercise.csproj.GenerateResource.cache
+C:\temp\U2141\2020.0414\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\temp\U2141\2020.0414\Exercise\obj\Debug\Exercise.exe
+C:\temp\U2141\2020.0414\Exercise\obj\Debug\Exercise.pdb
+C:\temp\U2141\2020.0414\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\cs2020\0410作業練習\0410作業練習\bin\Debug\0410作業練習.exe.config
+D:\cs2020\0410作業練習\0410作業練習\bin\Debug\0410作業練習.exe
+D:\cs2020\0410作業練習\0410作業練習\bin\Debug\0410作業練習.pdb
+D:\cs2020\0410作業練習\0410作業練習\obj\Debug\0410作業練習.csprojResolveAssemblyReference.cache
+D:\cs2020\0410作業練習\0410作業練習\obj\Debug\_0410作業練習.Form1.resources
+D:\cs2020\0410作業練習\0410作業練習\obj\Debug\_0410作業練習.Form2.resources
+D:\cs2020\0410作業練習\0410作業練習\obj\Debug\_0410作業練習.Properties.Resources.resources
+D:\cs2020\0410作業練習\0410作業練習\obj\Debug\0410作業練習.csproj.GenerateResource.Cache
+D:\cs2020\0410作業練習\0410作業練習\obj\Debug\0410作業練習.exe
+D:\cs2020\0410作業練習\0410作業練習\obj\Debug\0410作業練習.pdb

@@ -1,0 +1,30 @@
+C:\temp\teacher\teacher\bin\Debug\teacher.exe.config
+C:\temp\teacher\teacher\bin\Debug\teacher.exe
+C:\temp\teacher\teacher\bin\Debug\teacher.pdb
+C:\temp\teacher\teacher\obj\Debug\teacher.csprojAssemblyReference.cache
+C:\temp\teacher\teacher\obj\Debug\teacher.Form1.resources
+C:\temp\teacher\teacher\obj\Debug\teacher.Properties.Resources.resources
+C:\temp\teacher\teacher\obj\Debug\teacher.csproj.GenerateResource.cache
+C:\temp\teacher\teacher\obj\Debug\teacher.csproj.CoreCompileInputs.cache
+C:\temp\teacher\teacher\obj\Debug\teacher.exe
+C:\temp\teacher\teacher\obj\Debug\teacher.pdb
+C:\temp\teacher - Copy\teacher\bin\Debug\teacher.exe.config
+C:\temp\teacher - Copy\teacher\bin\Debug\teacher.exe
+C:\temp\teacher - Copy\teacher\bin\Debug\teacher.pdb
+C:\temp\teacher - Copy\teacher\obj\Debug\teacher.csprojAssemblyReference.cache
+C:\temp\teacher - Copy\teacher\obj\Debug\teacher.Form1.resources
+C:\temp\teacher - Copy\teacher\obj\Debug\teacher.Properties.Resources.resources
+C:\temp\teacher - Copy\teacher\obj\Debug\teacher.csproj.GenerateResource.cache
+C:\temp\teacher - Copy\teacher\obj\Debug\teacher.csproj.CoreCompileInputs.cache
+C:\temp\teacher - Copy\teacher\obj\Debug\teacher.exe
+C:\temp\teacher - Copy\teacher\obj\Debug\teacher.pdb
+C:\public\20200413_練習2\teacher\teacher\bin\Debug\teacher.exe.config
+C:\public\20200413_練習2\teacher\teacher\bin\Debug\teacher.exe
+C:\public\20200413_練習2\teacher\teacher\bin\Debug\teacher.pdb
+C:\public\20200413_練習2\teacher\teacher\obj\Debug\teacher.csprojAssemblyReference.cache
+C:\public\20200413_練習2\teacher\teacher\obj\Debug\teacher.Form1.resources
+C:\public\20200413_練習2\teacher\teacher\obj\Debug\teacher.Properties.Resources.resources
+C:\public\20200413_練習2\teacher\teacher\obj\Debug\teacher.csproj.GenerateResource.cache
+C:\public\20200413_練習2\teacher\teacher\obj\Debug\teacher.csproj.CoreCompileInputs.cache
+C:\public\20200413_練習2\teacher\teacher\obj\Debug\teacher.exe
+C:\public\20200413_練習2\teacher\teacher\obj\Debug\teacher.pdb

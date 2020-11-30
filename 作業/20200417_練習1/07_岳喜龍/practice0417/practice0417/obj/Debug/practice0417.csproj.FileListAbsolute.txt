@@ -1,0 +1,10 @@
+C:\U2141\practice0417\practice0417\bin\Debug\practice0417.exe.config
+C:\U2141\practice0417\practice0417\bin\Debug\practice0417.exe
+C:\U2141\practice0417\practice0417\bin\Debug\practice0417.pdb
+C:\U2141\practice0417\practice0417\obj\Debug\practice0417.csprojAssemblyReference.cache
+C:\U2141\practice0417\practice0417\obj\Debug\practice0417.Form1.resources
+C:\U2141\practice0417\practice0417\obj\Debug\practice0417.Properties.Resources.resources
+C:\U2141\practice0417\practice0417\obj\Debug\practice0417.csproj.GenerateResource.cache
+C:\U2141\practice0417\practice0417\obj\Debug\practice0417.csproj.CoreCompileInputs.cache
+C:\U2141\practice0417\practice0417\obj\Debug\practice0417.exe
+C:\U2141\practice0417\practice0417\obj\Debug\practice0417.pdb

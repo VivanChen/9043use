@@ -1,0 +1,10 @@
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe.config
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.exe
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\bin\Debug\12_陳彥豪.pdb
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csprojAssemblyReference.cache
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Form1.resources
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\obj\Debug\_12_陳彥豪.Properties.Resources.resources
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.GenerateResource.cache
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.csproj.CoreCompileInputs.cache
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.exe
+C:\temp\練習\0414-樂透產生數\12_陳彥豪\12_陳彥豪\obj\Debug\12_陳彥豪.pdb

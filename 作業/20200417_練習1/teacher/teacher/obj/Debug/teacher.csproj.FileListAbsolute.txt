@@ -1,0 +1,10 @@
+C:\public\20200417_練習1\teacher\teacher\bin\Debug\teacher.exe.config
+C:\public\20200417_練習1\teacher\teacher\bin\Debug\teacher.exe
+C:\public\20200417_練習1\teacher\teacher\bin\Debug\teacher.pdb
+C:\public\20200417_練習1\teacher\teacher\obj\Debug\teacher.csprojAssemblyReference.cache
+C:\public\20200417_練習1\teacher\teacher\obj\Debug\teacher.Form1.resources
+C:\public\20200417_練習1\teacher\teacher\obj\Debug\teacher.Properties.Resources.resources
+C:\public\20200417_練習1\teacher\teacher\obj\Debug\teacher.csproj.GenerateResource.cache
+C:\public\20200417_練習1\teacher\teacher\obj\Debug\teacher.csproj.CoreCompileInputs.cache
+C:\public\20200417_練習1\teacher\teacher\obj\Debug\teacher.exe
+C:\public\20200417_練習1\teacher\teacher\obj\Debug\teacher.pdb

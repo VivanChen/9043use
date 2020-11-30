@@ -1,0 +1,10 @@
+C:\temp\U2141\28_李慶源\28_李慶源\obj\Debug\28_李慶源.csprojAssemblyReference.cache
+C:\temp\U2141\28_李慶源\28_李慶源\obj\Debug\_28_李慶源.Form1.resources
+C:\temp\U2141\28_李慶源\28_李慶源\obj\Debug\_28_李慶源.Properties.Resources.resources
+C:\temp\U2141\28_李慶源\28_李慶源\obj\Debug\28_李慶源.csproj.GenerateResource.cache
+C:\temp\U2141\28_李慶源\28_李慶源\obj\Debug\28_李慶源.csproj.CoreCompileInputs.cache
+C:\temp\U2141\28_李慶源\28_李慶源\bin\Debug\28_李慶源.exe.config
+C:\temp\U2141\28_李慶源\28_李慶源\bin\Debug\28_李慶源.exe
+C:\temp\U2141\28_李慶源\28_李慶源\bin\Debug\28_李慶源.pdb
+C:\temp\U2141\28_李慶源\28_李慶源\obj\Debug\28_李慶源.exe
+C:\temp\U2141\28_李慶源\28_李慶源\obj\Debug\28_李慶源.pdb

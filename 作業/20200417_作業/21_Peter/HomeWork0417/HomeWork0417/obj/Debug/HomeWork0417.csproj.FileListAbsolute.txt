@@ -1,0 +1,5 @@
+\\INST\public\20200417_作業\21_Peter\HomeWork0417\HomeWork0417\obj\Debug\HomeWork0417.csprojAssemblyReference.cache
+\\INST\public\20200417_作業\21_Peter\HomeWork0417\HomeWork0417\obj\Debug\HomeWork0417.Form1.resources
+\\INST\public\20200417_作業\21_Peter\HomeWork0417\HomeWork0417\obj\Debug\HomeWork0417.Properties.Resources.resources
+\\INST\public\20200417_作業\21_Peter\HomeWork0417\HomeWork0417\obj\Debug\HomeWork0417.csproj.GenerateResource.cache
+\\INST\public\20200417_作業\21_Peter\HomeWork0417\HomeWork0417\obj\Debug\HomeWork0417.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\U0406\lotto\lotto\bin\Debug\lotto.exe.config
+C:\U0406\lotto\lotto\bin\Debug\lotto.exe
+C:\U0406\lotto\lotto\bin\Debug\lotto.pdb
+C:\U0406\lotto\lotto\obj\Debug\lotto.csprojAssemblyReference.cache
+C:\U0406\lotto\lotto\obj\Debug\lotto.Form1.resources
+C:\U0406\lotto\lotto\obj\Debug\lotto.Properties.Resources.resources
+C:\U0406\lotto\lotto\obj\Debug\lotto.csproj.GenerateResource.cache
+C:\U0406\lotto\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+C:\U0406\lotto\lotto\obj\Debug\lotto.exe
+C:\U0406\lotto\lotto\obj\Debug\lotto.pdb

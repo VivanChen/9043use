@@ -1,0 +1,43 @@
+C:\U0406\0406\03\03\bin\Debug\03.exe.config
+C:\U0406\0406\03\03\bin\Debug\03.exe
+C:\U0406\0406\03\03\bin\Debug\03.pdb
+C:\U0406\0406\03\03\obj\Debug\03.csprojAssemblyReference.cache
+C:\U0406\0406\03\03\obj\Debug\_03.Form1.resources
+C:\U0406\0406\03\03\obj\Debug\_03.Properties.Resources.resources
+C:\U0406\0406\03\03\obj\Debug\03.csproj.GenerateResource.cache
+C:\U0406\0406\03\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+C:\U0406\0406\03\03\obj\Debug\03.exe
+C:\U0406\0406\03\03\obj\Debug\03.pdb
+C:\U0406\class practice\03\bin\Debug\03.exe.config
+C:\U0406\class practice\03\bin\Debug\03.exe
+C:\U0406\class practice\03\bin\Debug\03.pdb
+C:\U0406\class practice\03\obj\Debug\03.csprojAssemblyReference.cache
+C:\U0406\class practice\03\obj\Debug\_03.Form1.resources
+C:\U0406\class practice\03\obj\Debug\_03.Login.resources
+C:\U0406\class practice\03\obj\Debug\_03.Properties.Resources.resources
+C:\U0406\class practice\03\obj\Debug\03.csproj.GenerateResource.cache
+C:\U0406\class practice\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+C:\U0406\class practice\03\obj\Debug\03.exe
+C:\U0406\class practice\03\obj\Debug\03.pdb
+C:\Users\bluef\Desktop\U0406\class practice\03\bin\Debug\03.exe.config
+C:\Users\bluef\Desktop\U0406\class practice\03\bin\Debug\03.exe
+C:\Users\bluef\Desktop\U0406\class practice\03\bin\Debug\03.pdb
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\03.csprojAssemblyReference.cache
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\_03.Form1.resources
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\_03.Login.resources
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\_03.Properties.Resources.resources
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\03.csproj.GenerateResource.cache
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\03.exe
+C:\Users\bluef\Desktop\U0406\class practice\03\obj\Debug\03.pdb
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\03.csprojAssemblyReference.cache
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\_03.Form1.resources
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\_03.Login.resources
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\_03.Properties.Resources.resources
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\03.csproj.GenerateResource.cache
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\03.csproj.CoreCompileInputs.cache
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\03.exe
+\\inst\public\20200410_作業\10_林維軒\03\obj\Debug\03.pdb
+\\inst\public\20200410_作業\10_林維軒\03\bin\Debug\03.exe.config
+\\inst\public\20200410_作業\10_林維軒\03\bin\Debug\03.exe
+\\inst\public\20200410_作業\10_林維軒\03\bin\Debug\03.pdb

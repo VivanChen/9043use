@@ -1,0 +1,10 @@
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\kc\Desktop\web form 全修班\回家作業\20200417_作業\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

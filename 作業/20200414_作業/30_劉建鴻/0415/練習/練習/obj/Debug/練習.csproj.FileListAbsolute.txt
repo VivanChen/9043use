@@ -1,0 +1,98 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\bin\Debug\練習.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\bin\Debug\練習.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\bin\Debug\練習.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\obj\Debug\練習.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\練習\練習\obj\Debug\練習.pdb
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\bin\Debug\練習.exe.config
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\bin\Debug\練習.exe
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\bin\Debug\練習.pdb
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.exe
+C:\Users\Admin\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.pdb
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\bin\Debug\練習.exe.config
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\bin\Debug\練習.exe
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\bin\Debug\練習.pdb
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.exe
+C:\Users\Admin\Desktop\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.pdb
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\bin\Debug\練習.exe.config
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\bin\Debug\練習.exe
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\bin\Debug\練習.pdb
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.exe
+C:\Users\jianhong\Desktop\C#\0411\New folder\30_劉建鴻\練習\練習\obj\Debug\練習.pdb
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.exe
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\obj\Debug\練習.pdb
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\bin\Debug\練習.exe.config
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\bin\Debug\練習.exe
+C:\Users\jianhong\Desktop\30_劉建鴻\練習\練習\bin\Debug\練習.pdb
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\bin\Debug\練習.exe.config
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\bin\Debug\練習.exe
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\bin\Debug\練習.pdb
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.exe
+C:\Users\jianhong\Desktop\30_劉建鴻 - Copy\練習\練習\obj\Debug\練習.pdb
+C:\Users\Admin\Desktop\練習\練習\bin\Debug\練習.exe.config
+C:\Users\Admin\Desktop\練習\練習\bin\Debug\練習.exe
+C:\Users\Admin\Desktop\練習\練習\bin\Debug\練習.pdb
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.exe
+C:\Users\Admin\Desktop\練習\練習\obj\Debug\練習.pdb
+C:\Users\jianhong\Desktop\0413\練習\練習\bin\Debug\練習.exe.config
+C:\Users\jianhong\Desktop\0413\練習\練習\bin\Debug\練習.exe
+C:\Users\jianhong\Desktop\0413\練習\練習\bin\Debug\練習.pdb
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.exe
+C:\Users\jianhong\Desktop\0413\練習\練習\obj\Debug\練習.pdb
+C:\Users\jianhong\Desktop\0415\練習\練習\bin\Debug\練習.exe.config
+C:\Users\jianhong\Desktop\0415\練習\練習\bin\Debug\練習.exe
+C:\Users\jianhong\Desktop\0415\練習\練習\bin\Debug\練習.pdb
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.csprojAssemblyReference.cache
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.Form1.resources
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.Form2.resources
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.Properties.Resources.resources
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.csproj.GenerateResource.cache
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.csproj.CoreCompileInputs.cache
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.exe
+C:\Users\jianhong\Desktop\0415\練習\練習\obj\Debug\練習.pdb

@@ -1,0 +1,11 @@
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\bin\Debug\0410.exe.config
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\bin\Debug\0410.exe
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\bin\Debug\0410.pdb
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.csprojAssemblyReference.cache
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\_0410.Form1.resources
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\_0410.Properties.Resources.resources
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.csproj.GenerateResource.cache
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.csproj.CoreCompileInputs.cache
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.exe
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\0410.pdb
+D:\Larrys file\恆逸\03_賴彥廷\0410\0410\obj\Debug\_0410.Login.resources

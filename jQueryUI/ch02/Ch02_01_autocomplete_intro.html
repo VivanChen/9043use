@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>jQuery UI Example Page</title>
+	<!--
+		單一捷運站 ＝ 單一UI模組
+			options
+				收票扎進出方向 = 元件設定 option minLength
+				電梯運轉方向 ＝ 元件設定 option position
+			methods
+				更改收票扎進出方向 ＝ 功能 method "option",{選項:數值}
+				物品墜落月台 ＝ 功能 method "disabled"
+			events		
+				列車進站 閃燈警告＝ 事件 event create
+				列車停靠 開門＝ 事件 event open
+				上下旅客 指揮監控 ＝ 事件 event search
+				列車離站 關門聲音 ＝ 事件 event close
+		
+		jQuery UI模組使用：
+			1.Options 設定：藉option以設定元件的外觀與操作行為。
+				元件外觀：position：{my:"left top", at:"left bottom"}
+						設定輔助選單的相對出現位置。
+				操作行為：minLength:2
+						設定最少要輸入多少字元才開始搜尋資料。
+			
+			2.Methods 功能：利用method對UI元件執行指定的功能。
+				$("uiElement").autocomplete("disable");
+				強迫指定的UI元件無法被使用者操作
+					
+				$("uiElement").autocomplete("search", "word");
+				要求指定的UI元件立即開始搜尋設定的"word"文字，而不是透過使用者輸入
+			
+			3.Events 事件：當UI元件遭遇事件發出通知。
+				focus:focusHandler,
+				當使用者聚焦在某一選單項目上時，發出focus的通知，並可以執行指定名稱的自定函式
+				function focusHandler(event, ui){//要執行的程式區塊}
+					focusHandler：為自定函式的名稱
+					(event,ui):為系統傳入的資料，重點為ui，能夠傳入目前有關的資訊
+				
+				search:searchHandler,
+				function searchHandler(event, ui){//要執行的程式區塊}
+				雖然功能method與事件event都有search，
+				但是在method中是要求元件去執行一個自定字串的搜尋行為，
+				然而在event中，卻是當元件開始進行搜尋行為時，所傳出的通知，讓程式能夠做出回應
+	-->
+	
+	<!--
+		程式設計目的：
+			使用Autocomplete功能選取顏色，並借此色彩更改h1標題之背景色。
+			但由於資料量龐大，利用兩階層的Autocomplete搜尋選單來降低使用者的搜尋困難度。
+			例如7-11的門市位置搜尋系統，便是這種功能的運用。
+		
+		程式運作過程：
+			1.由mainColorInput輸入文字，以搜尋主要色彩
+			2.在選取mainColorInput的過程時，不斷設定allColorInput的搜尋色彩
+			3.在搜尋allColorInput的過程時，於allColorInput文字欄位中出現16進位色碼
+			4.在搜尋allColorInput選取色彩後，以此選取色彩設定H1的背景色彩
+	-->
+	
+	<link rel="stylesheet" href="../themes/ui-lightness/jquery-ui.css" />
+	<!--載入jQuery UI 的CSS主題-->
+	<script type="text/javascript" src="../jquery.js"></script>
+	<!--載入jQuery 的核心javaScript檔案，以便架構jQuery環境-->
+	<script type="text/javascript" src="../jquery-ui.js"></script>
+	<!--載入jQuery UI的核心javaScript檔案，以便使用jQuery UI 元件與互動功能-->
+	
+	<script type="text/javascript">
+	<!--自行撰寫javaScript程式-->
+
+	var mainColors = ["Red", "Green", "Blue", "Gray"];
+	//設定主要顏色資料陣列
+	
+	var allColors = [
+			{value:"Red", code:"#ff8888", chinese:"紅"},//單一搜尋陣列資料
+			{value:"Dark Red", code:"#ff3333"},//內容包含{value:預設值，code:附加值}
+			{value:"Light Red", code:"#ffcccc"},
+			{value:"Green", code:"#88ff88"},
+			{value:"Dark Green", code:"#33ff33"},
+			{value:"Light Green", code:"#ccffcc"},
+			{value:"Blue", code:"#8888ff"},
+			{value:"Dark Blue", code:"#3333ff"},
+			{value:"Light Blue", code:"#ccccff"},
+			{value:"Gray", code:"#888888"},
+			{value:"Dark Gray", code:"#333333"},
+			{value:"Light Gray", code:"#cccccc"}
+		];
+		//設定所有顏色資料陣列，
+		
+	$(document).ready(init);//jQuery method //網頁讀取完畢
+	function init(){//自定 method //初始化函式
+	
+		$( "#mainColorInput" ).autocomplete({//jQuery method
+			source: mainColors,
+			//option 指定「主要色彩」的資料來源
+			focus:mainFocusHandler
+			//event 當「主要色彩」選單項目被聚焦時，執行mainFocusHandler自定函式
+		});
+		
+		$( "#allColorInput" ).autocomplete({
+			source: allColors,
+			//option 指定「所有色彩」的資料來源
+			focus:allFocusHandler,
+			//event 當選單項目被聚焦時，執行allFocusHandler自定函式
+			select:allSelectHandler
+			//event 當選單項目被選取時，執行allSelectHandler自定函式
+		});
+	}
+
+	function mainFocusHandler(event, ui){
+		$("#allColorInput").autocomplete("search", ui.item.value);
+		//method: 「所有色彩」聚焦時，開始搜尋「所有色彩」目前所聚焦的文字
+		//ui.item.value = 系統傳入資料.目前項目.預設值
+		//{value:"Light Gray", code:"#cccccc"}
+	}	
+	function allFocusHandler(event, ui){
+		$("#allColorInput").val(ui.item.value);
+		//jQuery method //將值寫入allColor欄位
+		//ui.item.code = 系統傳入資料.目前項目.自定的值(code)
+		//{value:"Light Gray", code:"#cccccc"}
+	}
+	function allSelectHandler(event, ui){
+		$("h1").css({backgroundColor:ui.item.code});
+		//jQuery method //以選取的色彩值，更改h1背景色
+	}
+	</script>
+	<style type="text/css">
+		/*自行定義CSS樣式*/
+	</style>
+</head>
+<body>
+
+<h1>Color Picker</h1>
+<spin>
+  <label">mainColorInput: </label>
+  <input id="mainColorInput">
+  <!--「主要色彩」選取輸入文字欄位-->
+</spin>
+
+<spin>
+  <label">allColorInput: </label>
+  <input id="allColorInput">
+  <!--「所有色彩」選取輸入文字欄位-->
+</spin>
+</body>
+</html>

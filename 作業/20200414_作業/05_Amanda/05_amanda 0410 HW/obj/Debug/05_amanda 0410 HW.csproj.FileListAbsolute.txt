@@ -1,0 +1,39 @@
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.exe.config
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.exe
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.pdb
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csprojResolveAssemblyReference.cache
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form1.resources
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Properties.Resources.resources
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csproj.GenerateResource.Cache
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.exe
+C:\Users\Amanda\documents\visual studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.pdb
+C:\Users\Amanda\Documents\Visual Studio 2017\Projects\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form2.resources
+E:\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.exe.config
+E:\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.exe
+E:\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.pdb
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csprojAssemblyReference.cache
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form1.resources
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form2.resources
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Properties.Resources.resources
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csproj.GenerateResource.cache
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csproj.CoreCompileInputs.cache
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.exe
+E:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.pdb
+D:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csprojResolveAssemblyReference.cache
+D:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form1.resources
+D:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form2.resources
+D:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Properties.Resources.resources
+D:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csproj.GenerateResource.Cache
+D:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.exe
+D:\05_amanda 0410 HW\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.pdb
+D:\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.exe.config
+D:\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.exe
+D:\05_amanda 0410 HW\05_amanda 0410 HW\bin\Debug\05_amanda 0410 HW.pdb
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csprojAssemblyReference.cache
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form1.resources
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Form2.resources
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\_05_amanda_0410_HW.Properties.Resources.resources
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csproj.GenerateResource.cache
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.csproj.CoreCompileInputs.cache
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.exe
+\\INST\public\20200414_作業\05_Amanda\05_amanda 0410 HW\obj\Debug\05_amanda 0410 HW.pdb

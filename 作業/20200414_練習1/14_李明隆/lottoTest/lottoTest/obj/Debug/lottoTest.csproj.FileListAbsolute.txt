@@ -1,0 +1,30 @@
+C:\U310934\lottoTest\lottoTest\bin\Debug\lottoTest.exe.config
+C:\U310934\lottoTest\lottoTest\bin\Debug\lottoTest.exe
+C:\U310934\lottoTest\lottoTest\bin\Debug\lottoTest.pdb
+C:\U310934\lottoTest\lottoTest\obj\Debug\lottoTest.csprojAssemblyReference.cache
+C:\U310934\lottoTest\lottoTest\obj\Debug\lottoTest.Form1.resources
+C:\U310934\lottoTest\lottoTest\obj\Debug\lottoTest.Properties.Resources.resources
+C:\U310934\lottoTest\lottoTest\obj\Debug\lottoTest.csproj.GenerateResource.cache
+C:\U310934\lottoTest\lottoTest\obj\Debug\lottoTest.csproj.CoreCompileInputs.cache
+C:\U310934\lottoTest\lottoTest\obj\Debug\lottoTest.exe
+C:\U310934\lottoTest\lottoTest\obj\Debug\lottoTest.pdb
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\bin\Debug\lottoTest.exe.config
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\bin\Debug\lottoTest.exe
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\bin\Debug\lottoTest.pdb
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.Form1.resources
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.exe
+C:\Users\Admin\Desktop\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.pdb
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\bin\Debug\lottoTest.exe.config
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\bin\Debug\lottoTest.exe
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\bin\Debug\lottoTest.pdb
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.Form1.resources
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.exe
+C:\Users\Admin\Desktop\New folder\14_李明隆\lottoTest\lottoTest\obj\Debug\lottoTest.pdb

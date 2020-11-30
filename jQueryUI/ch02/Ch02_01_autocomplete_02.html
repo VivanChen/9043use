@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Taype" content="text/html; charset=UTF-8" />
+	<title>jQuery UI Example Page</title>
+	<link rel="stylesheet" href="../themes/ui-lightness/jquery-ui.css" />
+	<script type="text/javascript" src="../jquery.js"></script>
+	<script type="text/javascript" src="../jquery-ui.js"></script>
+	
+	<script type="text/javascript">
+	var keywords = [
+		 	"Red", "Dark Red", "Light Red",
+			"Green", "Dark Green", "Light Green",
+			"Blue", "Dark Blue", "Light Blue",
+			"Cyan", "Dark Cyan", "Light Cyan",
+			"Magenta", "Dark Magenta", "Light Magenta",
+			"Yellow", "Dark Yellow", "Light Yellow",
+			
+			"Gray", "Black", "White",
+			"Orange", "Olive", "Orchid",
+			"Purple","Pink","Peach",
+			"Snow","Sky","Silver"
+		];
+	$(document).ready(init);
+	function init(){
+		$( "#keywords" ).autocomplete({
+			source: keywords
+		});
+	}
+	</script>
+	<style>
+        .ui-autocomplete {
+            height:auto;
+			width:200px;
+			background:yellow;
+			overflow:auto;
+        }
+
+        li.ui-menu-item {
+            font-size: 24px;
+            font-style: italic;
+			color:blue;
+        }
+	</style>
+</head>
+<body>
+
+<h1>Autocomplete Methods</h1>
+<button>disable</button>
+<button>enable</button>
+<button>option</button>
+<button>destroy</button>
+<button>rebuild</button>
+<button>close</button>
+<button>search</button>
+<div class="ui-widget">
+  <label">Keywords: </label>
+  <input id="keywords">
+</div>
+</body>
+</html>

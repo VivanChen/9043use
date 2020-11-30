@@ -1,0 +1,30 @@
+C:\U0406\class practice\class practice\bin\Debug\class practice.exe.config
+C:\U0406\class practice\class practice\bin\Debug\class practice.exe
+C:\U0406\class practice\class practice\bin\Debug\class practice.pdb
+C:\U0406\class practice\class practice\obj\Debug\class practice.csprojAssemblyReference.cache
+C:\U0406\class practice\class practice\obj\Debug\class_practice.Form1.resources
+C:\U0406\class practice\class practice\obj\Debug\class_practice.Properties.Resources.resources
+C:\U0406\class practice\class practice\obj\Debug\class practice.csproj.GenerateResource.cache
+C:\U0406\class practice\class practice\obj\Debug\class practice.csproj.CoreCompileInputs.cache
+C:\U0406\class practice\class practice\obj\Debug\class practice.exe
+C:\U0406\class practice\class practice\obj\Debug\class practice.pdb
+C:\U0406\class practice413\class practice\obj\Debug\class practice.csprojAssemblyReference.cache
+C:\U0406\class practice413\class practice\obj\Debug\class_practice.Form1.resources
+C:\U0406\class practice413\class practice\obj\Debug\class_practice.Properties.Resources.resources
+C:\U0406\class practice413\class practice\obj\Debug\class practice.csproj.GenerateResource.cache
+C:\U0406\class practice413\class practice\obj\Debug\class practice.csproj.CoreCompileInputs.cache
+C:\U0406\class practice413\class practice\obj\Debug\class practice.exe
+C:\U0406\class practice413\class practice\obj\Debug\class practice.pdb
+C:\U0406\class practice413\class practice\bin\Debug\class practice.exe.config
+C:\U0406\class practice413\class practice\bin\Debug\class practice.exe
+C:\U0406\class practice413\class practice\bin\Debug\class practice.pdb
+\\INST\public\20200413_練習2\10_林維軒\class practice\bin\Debug\class practice.exe.config
+\\INST\public\20200413_練習2\10_林維軒\class practice\bin\Debug\class practice.exe
+\\INST\public\20200413_練習2\10_林維軒\class practice\bin\Debug\class practice.pdb
+\\INST\public\20200413_練習2\10_林維軒\class practice\obj\Debug\class practice.csprojAssemblyReference.cache
+\\INST\public\20200413_練習2\10_林維軒\class practice\obj\Debug\class_practice.Form1.resources
+\\INST\public\20200413_練習2\10_林維軒\class practice\obj\Debug\class_practice.Properties.Resources.resources
+\\INST\public\20200413_練習2\10_林維軒\class practice\obj\Debug\class practice.csproj.GenerateResource.cache
+\\INST\public\20200413_練習2\10_林維軒\class practice\obj\Debug\class practice.csproj.CoreCompileInputs.cache
+\\INST\public\20200413_練習2\10_林維軒\class practice\obj\Debug\class practice.exe
+\\INST\public\20200413_練習2\10_林維軒\class practice\obj\Debug\class practice.pdb
